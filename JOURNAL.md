@@ -23,4 +23,6 @@ I basically just placed all the switches and stabilizers in the right place and 
 
 ![pcb 3d render](images/pcb_3d_render.tiff)
 
+https://lapse.hackclub.com/timelapse/Wk0bybHFVrAW
+
 **Total time spent: 1.5 hours**
