@@ -8,7 +8,7 @@ This is a keyboard made by me that acts as a number pad for many keyboards today
 |Seeed Studio XIAO RP2040|Main Dev Board(cost includes shipping)                                             |1       |$8.72     |https://sharvielectronics.com/product/xiao-rp2040-supports-arduino-micropython-and-circuitpython-seeed-studio/|sharvi electronics|
 |MX Switches             |MX switches(pack of 10 and 2 of them = 20 keys)(includes shipping)                 |2       |$5.11     |https://stackskb.com/store/click-inc-hp-switch-pack-of-10-pre-order/                                          |stackskb          |
 |Keycaps                 |Numpad keycaps(shipping grouped with switches)                                     |1       |$1.57     |https://stackskb.com/store/numpad-keycaps/?attribute_variant=MDA+Lavender                                     |stackskb          |
-|1N4148 Diode            |1N4148 Diode(price not include shipping as shipping is shared with the XIAO RP2040)|17      |$0.60     |https://sharvielectronics.com/product/1n4148-small-signal-fast-switching-diodes-do-35-package/                |robu              |
+|1N4148 Diode            |1N4148 Diode(price not include shipping as shipping is shared with the XIAO RP2040)|17      |$0.60     |https://sharvielectronics.com/product/1n4148-small-signal-fast-switching-diodes-do-35-package/                |sharvi electronics              |
 |2u MX Stabilizers       |Stabilizers(shipping grouped with switches)                                        |3       |$3.13     |https://stackskb.com/store/genuine-cherry-mx-plate-mount-stabilizers-2u/                                      |stackskb          |
 
 ## Images
